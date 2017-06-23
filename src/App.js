@@ -5,10 +5,10 @@ import "bootswatch/cyborg/bootstrap.css";
 import './App.css';
 
 const PLACES = [
-  { name: "Palo Alto", zip: "94303" },
-  { name: "San Jose", zip: "94088" },
-  { name: "Santa Cruz", zip: "95062" },
-  { name: "Honolulu", zip: "96803" }
+  { name: "Fairbanks, AK", zip: "99705" },
+  { name: "Roswell, GA", zip: "30076" },
+  { name: "Boston, MA", zip: "02124" },
+  { name: "Honolulu, HI", zip: "96803" }
 ];
 
 class WeatherDisplay extends Component {
