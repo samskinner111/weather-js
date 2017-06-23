@@ -63,7 +63,7 @@ class App extends Component {
   <Navbar>
     <Navbar.Header>
       <Navbar.Brand>
-        React Sample Weather App
+        Skinner Weather App
       </Navbar.Brand>
     </Navbar.Header>
   </Navbar>
